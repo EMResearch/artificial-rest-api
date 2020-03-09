@@ -1,0 +1,8 @@
+digraph G {
+  Vvchd [ label="Vvchd" ];
+  Nf51X [ label="Nf51X" ];
+  QoVyR [ label="QoVyR" ];
+  XC8mA [ label="XC8mA" ];
+  RtDcW [ label="RtDcW" ];
+  Vvchd -> Nf51X [ label="<depends on>" ];
+}

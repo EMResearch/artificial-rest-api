@@ -1,0 +1,11 @@
+digraph G {
+  NSPii [ label="NSPii" ];
+  WUaJG [ label="WUaJG" ];
+  YaDPD [ label="YaDPD" ];
+  KuGn6 [ label="KuGn6" ];
+  Hvltg [ label="Hvltg" ];
+  Hvltg -> NSPii [ label="<is composed of>" ];
+  Hvltg -> WUaJG [ label="<is composed of>" ];
+  Hvltg -> YaDPD [ label="<depends on>" ];
+  Hvltg -> KuGn6 [ label="<depends on>" ];
+}

@@ -1,0 +1,10 @@
+digraph G {
+  BrZFY [ label="BrZFY" ];
+  RpZ1M [ label="RpZ1M" ];
+  VWyPI [ label="VWyPI" ];
+  XfPcd [ label="XfPcd" ];
+  Fy6u2 [ label="Fy6u2" ];
+  BrZFY -> RpZ1M [ label="<depends on>" ];
+  RpZ1M -> VWyPI [ label="<depends on>" ];
+  VWyPI -> XfPcd [ label="<depends on>" ];
+}

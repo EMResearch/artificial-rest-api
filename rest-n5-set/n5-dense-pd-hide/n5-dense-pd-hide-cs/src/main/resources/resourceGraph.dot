@@ -1,0 +1,11 @@
+digraph G {
+  E3gJv [ label="E3gJv" ];
+  UXlnY [ label="UXlnY" ];
+  NGgCH [ label="NGgCH" ];
+  WXTGl [ label="WXTGl" ];
+  ONVqF [ label="ONVqF" ];
+  ONVqF -> E3gJv [ label="<is composed of>" ];
+  ONVqF -> UXlnY [ label="<is composed of>" ];
+  ONVqF -> NGgCH [ label="<depends on>" ];
+  ONVqF -> WXTGl [ label="<depends on>" ];
+}

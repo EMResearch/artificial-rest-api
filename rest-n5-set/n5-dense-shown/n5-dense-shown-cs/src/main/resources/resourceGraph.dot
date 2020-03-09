@@ -1,0 +1,11 @@
+digraph G {
+  RiT1i [ label="RiT1i" ];
+  IqYSo [ label="IqYSo" ];
+  AS7Ex [ label="AS7Ex" ];
+  SIth8 [ label="SIth8" ];
+  YD7Vb [ label="YD7Vb" ];
+  YD7Vb -> RiT1i [ label="<is composed of>" ];
+  YD7Vb -> IqYSo [ label="<is composed of>" ];
+  YD7Vb -> AS7Ex [ label="<depends on>" ];
+  YD7Vb -> SIth8 [ label="<depends on>" ];
+}

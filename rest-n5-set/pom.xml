@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns="http://maven.apache.org/POM/4.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>evo.artificial.resource.exp</groupId>
+  <artifactId>rest-n5-set</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <packaging>pom</packaging>
+  <modules>
+    <module>n5-dense-shown</module>
+    <module>n5-medium-shown</module>
+    <module>n5-sparse-shown</module>
+    <module>n5-dense-pd-shown</module>
+    <module>n5-medium-pd-shown</module>
+    <module>n5-sparse-pd-shown</module>
+    <module>n5-dense-hide</module>
+    <module>n5-medium-hide</module>
+    <module>n5-sparse-hide</module>
+    <module>n5-dense-pd-hide</module>
+    <module>n5-medium-pd-hide</module>
+    <module>n5-sparse-pd-hide</module>
+  </modules>
+</project>

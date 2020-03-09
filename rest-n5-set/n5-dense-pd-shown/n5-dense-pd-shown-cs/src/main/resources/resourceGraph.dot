@@ -1,0 +1,11 @@
+digraph G {
+  OEXmz [ label="OEXmz" ];
+  W27dt [ label="W27dt" ];
+  B8v25 [ label="B8v25" ];
+  IUJWo [ label="IUJWo" ];
+  UEear [ label="UEear" ];
+  UEear -> OEXmz [ label="<is composed of>" ];
+  UEear -> W27dt [ label="<is composed of>" ];
+  UEear -> B8v25 [ label="<depends on>" ];
+  UEear -> IUJWo [ label="<depends on>" ];
+}

@@ -1,0 +1,8 @@
+digraph G {
+  Ye7de [ label="Ye7de" ];
+  XPvzd [ label="XPvzd" ];
+  S8ear [ label="S8ear" ];
+  SzAxJ [ label="SzAxJ" ];
+  NOGSK [ label="NOGSK" ];
+  Ye7de -> XPvzd [ label="<depends on>" ];
+}

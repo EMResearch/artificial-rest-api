@@ -1,0 +1,10 @@
+digraph G {
+  Yag8e [ label="Yag8e" ];
+  HGss7 [ label="HGss7" ];
+  S5htz [ label="S5htz" ];
+  I4AFG [ label="I4AFG" ];
+  MKWjd [ label="MKWjd" ];
+  Yag8e -> HGss7 [ label="<depends on>" ];
+  HGss7 -> S5htz [ label="<depends on>" ];
+  S5htz -> I4AFG [ label="<depends on>" ];
+}

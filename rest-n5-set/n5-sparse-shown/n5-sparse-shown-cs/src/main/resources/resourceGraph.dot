@@ -1,0 +1,8 @@
+digraph G {
+  YQQIq [ label="YQQIq" ];
+  DioO1 [ label="DioO1" ];
+  NDEje [ label="NDEje" ];
+  BSCc2 [ label="BSCc2" ];
+  PGAdu [ label="PGAdu" ];
+  YQQIq -> DioO1 [ label="<depends on>" ];
+}
