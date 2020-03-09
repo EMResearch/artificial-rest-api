@@ -1,15 +1,6 @@
 # Compiled class file
 *.class
 
-# Log file
-*.log
-
-# BlueJ files
-*.ctxt
-
-# Mobile Tools for Java (J2ME)
-.mtj.tmp/
-
 # Package Files #
 *.jar
 *.war
@@ -19,5 +10,56 @@
 *.tar.gz
 *.rar
 
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Log file
+*.log
+
+# BlueJ files
+*.ctxt
+
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+
+/.idea/
+*.iml
+/rest-n5-set/.idea/
+/rest-n5-set/n5-dense-hide/n5-dense-hide-cs/target/
+/rest-n5-set/n5-dense-hide/n5-dense-hide-em/target/
+/rest-n5-set/n5-dense-hide/n5-dense-hide-ex/target/
+/rest-n5-set/n5-dense-pd-hide/n5-dense-pd-hide-cs/target/
+/rest-n5-set/n5-dense-pd-hide/n5-dense-pd-hide-em/target/
+/rest-n5-set/n5-dense-pd-hide/n5-dense-pd-hide-ex/target/
+/rest-n5-set/n5-dense-pd-shown/n5-dense-pd-shown-cs/target/
+/rest-n5-set/n5-dense-pd-shown/n5-dense-pd-shown-em/target/
+/rest-n5-set/n5-dense-pd-shown/n5-dense-pd-shown-ex/target/
+/rest-n5-set/n5-dense-shown/n5-dense-shown-cs/target/
+/rest-n5-set/n5-dense-shown/n5-dense-shown-em/target/
+/rest-n5-set/n5-dense-shown/n5-dense-shown-ex/target/
+
+/rest-n5-set/n5-medium-hide/n5-medium-hide-cs/target/
+/rest-n5-set/n5-medium-hide/n5-medium-hide-em/target/
+/rest-n5-set/n5-medium-hide/n5-medium-hide-ex/target/
+/rest-n5-set/n5-medium-pd-hide/n5-medium-pd-hide-cs/target/
+/rest-n5-set/n5-medium-pd-hide/n5-medium-pd-hide-em/target/
+/rest-n5-set/n5-medium-pd-hide/n5-medium-pd-hide-ex/target/
+/rest-n5-set/n5-medium-pd-shown/n5-medium-pd-shown-cs/target/
+/rest-n5-set/n5-medium-pd-shown/n5-medium-pd-shown-em/target/
+/rest-n5-set/n5-medium-pd-shown/n5-medium-pd-shown-ex/target/
+/rest-n5-set/n5-medium-shown/n5-medium-shown-cs/target/
+/rest-n5-set/n5-medium-shown/n5-medium-shown-em/target/
+/rest-n5-set/n5-medium-shown/n5-medium-shown-ex/target/
+
+/rest-n5-set/n5-sparse-hide/n5-sparse-hide-cs/target/
+/rest-n5-set/n5-sparse-hide/n5-sparse-hide-em/target/
+/rest-n5-set/n5-sparse-hide/n5-sparse-hide-ex/target/
+/rest-n5-set/n5-sparse-pd-hide/n5-sparse-pd-hide-cs/target/
+/rest-n5-set/n5-sparse-pd-hide/n5-sparse-pd-hide-em/target/
+/rest-n5-set/n5-sparse-pd-hide/n5-sparse-pd-hide-ex/target/
+/rest-n5-set/n5-sparse-pd-shown/n5-sparse-pd-shown-cs/target/
+/rest-n5-set/n5-sparse-pd-shown/n5-sparse-pd-shown-em/target/
+/rest-n5-set/n5-sparse-pd-shown/n5-sparse-pd-shown-ex/target/
+/rest-n5-set/n5-sparse-shown/n5-sparse-shown-cs/target/
+/rest-n5-set/n5-sparse-shown/n5-sparse-shown-em/target/
+/rest-n5-set/n5-sparse-shown/n5-sparse-shown-ex/target/
